@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asterpec.github.io/sitemap
+Sitemap: https://asterpec.github.io/app/sitemap
+Sitemap: https://asterpec.github.io/assets/sitemap
+Sitemap: https://asterpec.github.io/css/sitemap
+Sitemap: https://asterpec.github.io/includes/sitemap
+Sitemap: https://asterpec.github.io/item/sitemap
+Sitemap: https://asterpec.github.io/src/sitemap
